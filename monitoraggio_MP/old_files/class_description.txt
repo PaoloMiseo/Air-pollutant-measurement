@@ -1,0 +1,8 @@
+classes:
+
+* Sensor: Generic for a given sensor (optional)
+	- Could be a specific class (PM sensor specific)
+
+* DataManagement: To manage the data IO
+
+* Plotting: To manage the graphic display

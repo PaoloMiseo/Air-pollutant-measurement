@@ -1,0 +1,8 @@
+INFO:root:Attempt to connect to the sensor
+INFO:root:Connection Successful
+INFO:root:Creating global variables
+INFO:root:Graph parameters creation
+INFO:root:Creation of queues for thread information sharing
+INFO:root:Function and thread definitions
+INFO:root:Variable instantiation and program start
+INFO:root:Program start
